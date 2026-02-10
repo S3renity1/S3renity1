@@ -15,7 +15,7 @@
 
 ---
 
-### 💼 About Me
+### About Me
 
 ```python
 class DataAnalyst:
@@ -39,7 +39,7 @@ class DataAnalyst:
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 #### Languages & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,12 +67,17 @@ class DataAnalyst:
 
 ---
 
-### GitHub Analytics
+### Projects Portfolio
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S3renity1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3renity1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=jupyter%20notebook" />
-</div>
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[Credit Card Segmentation](https://github.com/S3renity1/credit-card-segmentation)** | 30K customer risk analysis | Python, Excel, Power BI | ⭐ |
+| **[Property Sales Analytics](https://github.com/S3renity1/Property-Sales-Analytics)** | 6M+ property sales | Python, SQL, Excel Tableau | ⭐ |
+| **[Lending Club-Loan Analytics](https://github.com/S3renity1/Lending-Club-Loan-Analytics)** | 30M+ credit risk and loan approval analysis | Python, Excel, PowerBI | ⭐ |
+
+---
+
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=S3renity1&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
@@ -84,17 +89,7 @@ class DataAnalyst:
 
 ---
 
-### 🌟 Projects Portfolio
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| **[Credit Card Segmentation](https://github.com/S3renity1/credit-card-segmentation)** | 30K customer risk analysis | Python, Excel, Power BI | ⭐ |
-| **[Property Sales Analytics](https://github.com/S3renity1/Property-Sales-Analytics)** | 6M+ property sales | Python, SQL, Excel Tableau | 🔜 |
-| **[Lending Club-Loan Analytics](https://github.com/S3renity1/Lending-Club-Loan-Analytics)** | 30M+ credit risk and loan approval analysis | Python, Excel, PowerBI | 🔜 |
-
----
-
-### 📫 Let's Connect!
+### Let's Connect!
 
 <div align="center">
 
@@ -108,21 +103,11 @@ class DataAnalyst:
 
 ---
 
-### 💬 Random Dev Quote
+### Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-### Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/S3renity1/S3renity1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

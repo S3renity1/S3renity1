@@ -69,23 +69,11 @@ class DataAnalyst:
 
 ### Projects Portfolio
 
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| **[Credit Card Segmentation](https://github.com/S3renity1/credit-card-segmentation)** | 30K customer risk analysis | Python, Excel, Power BI | ⭐ |
-| **[Property Sales Analytics](https://github.com/S3renity1/Property-Sales-Analytics)** | 6M+ property sales | Python, SQL, Excel Tableau | ⭐ |
-| **[Lending Club-Loan Analytics](https://github.com/S3renity1/Lending-Club-Loan-Analytics)** | 30M+ credit risk and loan approval analysis | Python, Excel, PowerBI | ⭐ |
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=S3renity1&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S3renity1&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" />
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Credit Card Segmentation](https://github.com/S3renity1/credit-card-segmentation)** | 30K customer risk analysis | Python, Excel, Power BI |
+| **[Property Sales Analytics](https://github.com/S3renity1/Property-Sales-Analytics)** | 6M+ property sales | Python, SQL, Excel Tableau |
+| **[Lending Club-Loan Analytics](https://github.com/S3renity1/Lending-Club-Loan-Analytics)** | 30M+ credit risk and loan approval analysis | Python, Excel, PowerBI |
 
 ---
 

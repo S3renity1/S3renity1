@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anthony%20|%20Data%20Analyst&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anthony%20|%20Analyst&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- TYPING SVG ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Turning+Data+Into+Decisions;Python+%7C+SQL+%7C+Power+BI;Targeting+Banking+Grad+Programs;Based+in+Sydney%2C+NSW" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Turning+Data+Into+Decisions;Python+%7C+SQL+%7C+Power+BI;Based+in+Sydney%2C+NSW" alt="Typing SVG" /></a>
 
 <!-- BADGES ROW -->
 <p align="center">
@@ -21,13 +21,14 @@
 class DataAnalyst:
     def __init__(self):
         self.name = "Anthony"
-        self.location = "Sydney, NSW 🇦🇺"
-        self.role = "Data Analyst"
+        self.location = "Sydney, NSW, AU"
+        self.role = "Analyst"
         self.education = "Commerce dual major: finance and information systems "
         
     def current_focus(self):
         return {
-            "Projects": "Credit Risk Analytics & Customer Segmentation, Credit Risk & Loan Approval Analysis, Property SalesAnalytics",
+            "Projects": "Credit Card Segmentation, Credit Risk & Loan Approval Analysis,
+                         Property SalesAnalytics, Banking Customer Churn-Prediction",
             "Learning": "Advanced SQL, Machine Learning, Basel III",
             "Goal": "Ironman 70.3 miles",
             "Tools": ["Python", "PostgreSQL", "Power BI", "Excel"]
@@ -71,7 +72,8 @@ class DataAnalyst:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Credit Card Segmentation](https://github.com/S3renity1/credit-card-segmentation)** | 30K customer risk analysis | Python, Excel, Power BI |
+| **[Banking Customer Churn-Prediction](https://github.com/S3renity1/Banking-Customer-Churn-Prediction)** | 10k prediction analysis | Python, Jupyter, Excel, PowerBI|
+| **[Credit Card Segmentation](https://github.com/S3renity1/credit-card-segmentation)** | 30K customer risk analysis | Python, Excel, PowerBI |
 | **[Property Sales Analytics](https://github.com/S3renity1/Property-Sales-Analytics)** | 6M+ property sales | Python, SQL, Excel Tableau |
 | **[Lending Club-Loan Analytics](https://github.com/S3renity1/Lending-Club-Loan-Analytics)** | 30M+ credit risk and loan approval analysis | Python, Excel, PowerBI |
 
